@@ -1,0 +1,6 @@
+Allo Joe, 
+Il y avait beaucoup trop de math a faire et jai vraiment eu de la misere a comprendre les chaques definition comme par example: 
+GetPolarAngleDeg ou la diference entre length et length ou de trouver que CrossLH voulais dire left handed ... mais au finale jai pas mal
+reussis a me retrouver mais jaurais surement plus rajouter beaucoup plus de methode a appeler mais de re ecrire les formules m etais plus simple.
+Alors pour terminer le tp avait un bon niveau de difficulter et jai beaucoup appris sur les const pointeur.
+ps: je me sens beaucoup plus a laise avec c++ que sur unreal pour linstant
